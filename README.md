@@ -37,18 +37,18 @@ My strengths lie in the fundamentals that provide the judgment to build soundly 
 
 I apply artificial intelligence throughout the development lifecycle (AI-Driven Development), integrating coding agents and AI tools into my daily work. I lead its adoption across the team, accelerating delivery without sacrificing quality.
 
-### Core expertise
+### Technical skills
 
 | Area | Technologies and practices |
 | --- | --- |
-| **Backend and REST APIs** | JavaScript, Node.js, Express.js, PHP, Laravel/Lumen, Java, Spring Boot, REST API design and integration |
-| **Frontend** | Vue.js, Nuxt.js, React, HTML, CSS, Bootstrap |
-| **Cloud and DevOps** | Microsoft Azure, AWS, Terraform, Docker, Git, GitHub, CI/CD with GitHub Actions, observability and monitoring (metrics, logs, traces) with Azure Monitor/Application Insights and Grafana, IIS |
-| **Databases** | PostgreSQL, MySQL, SQL, SQL Server, MongoDB, Azure Cosmos DB, Amazon DynamoDB |
-| **Testing** | Jest, Jasmine, Supertest, Playwright, API testing, end-to-end testing, TDD and Spec-Driven Development (SDD) concepts |
-| **Architecture** | Software architecture, IoT, distributed systems, microservices |
-| **Leadership and delivery** | Technical leadership, Scrum, ClickUp, Trello, Avaza, GitHub Projects |
-| **AI-Driven Development** | Daily use of coding agents and AI assistants across the full SDLC (design, implementation, testing, code review, documentation, automation); consumption and integration of MCP servers with custom skills and subagents; Agentic AI and prompt engineering; OpenAI API in production; team AI adoption leadership |
+| **Leadership and architecture** | Technical leadership, software architecture, project planning, agile methodologies, Scrum, IoT, and cloud solution design |
+| **Project management** | ClickUp, Trello, Avaza, and GitHub Projects |
+| **Backend and REST APIs** | REST API design, development, and integration with JavaScript, Node.js, Express.js, PHP, Laravel/Lumen, Java, and Spring Boot; Spring Security, Spring MVC, JPA, Hibernate, C#, .NET, and ASP.NET MVC. Microservices architectures |
+| **Frontend** | JavaScript, Vue.js, Nuxt.js, React.js, HTML, CSS, Bootstrap, and WordPress |
+| **Cloud and DevOps** | Microsoft Azure, AWS, Terraform, Docker, Git, GitHub, CI/CD with GitHub Actions, observability and monitoring (metrics, logs, and traces) with Azure Monitor/Application Insights and Grafana |
+| **Databases** | PostgreSQL, MySQL, SQL, SQL Server, MongoDB, Azure Cosmos DB, and Amazon DynamoDB |
+| **Testing** | Jest, Jasmine, Supertest, Playwright, API testing, and end-to-end (E2E) testing. Knowledge of TDD (Test-Driven Development) and Spec-Driven Development (SDD) |
+| **AI-Driven Development** | Daily use of coding agents across the full SDLC: design, implementation, testing, code review, documentation, and automation. Consumption and integration of MCP servers, with custom skills and subagents for my own workflows. Agentic AI and prompt engineering applied to development. Leadership in the team's AI adoption and definition of best practices |
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-17212B?style=flat-square&logo=javascript" alt="JavaScript">
@@ -67,61 +67,89 @@ I apply artificial intelligence throughout the development lifecycle (AI-Driven 
 
 `August 2023 - Present`
 
-- Lead technical strategy and project delivery for IoT and cloud solutions on Microsoft Azure and AWS.
-- Oversee the complete engineering lifecycle, from architecture and solution design to production implementation.
-- Define cloud and data solutions while coordinating multidisciplinary teams with agile practices and project management platforms.
-- Led team adoption of AI-Driven Development: coding agents across the SDLC, integration of MCP servers with custom skills and subagents, with defined best practices.
+- Responsible for technical strategy and project management, focused on IoT solutions and cloud architectures on Microsoft Azure and AWS.
+- Oversee the complete development lifecycle, from solution design to final implementation.
+- Define solutions with cloud services and SQL and NoSQL databases, coordinating teams and projects with ClickUp, Trello, Avaza, and GitHub Projects.
+- Led team adoption of AI-Driven Development: coding agents across the SDLC and integration of AI tools, with defined usage best practices.
 - Significantly reduced development time through AI while maintaining quality standards and test coverage.
-- Led the migration of legacy applications to modern architectures in minimal timeframes using AI, delivering notable maintainability and performance improvements.
+- Led the migration of legacy applications to modern architectures in minimal timeframes using AI, delivering notable maintainability and performance improvements in a short time.
 - Review code and mentor junior developers, with CI/CD pipelines in GitHub Actions to ensure delivery quality.
 
 #### Full-stack Developer · Wisely
 
 `January 2021 - August 2023`
 
-- Designed, developed, and integrated REST APIs with Express.js, Laravel/Lumen, and Spring Boot.
-- Integrated services with MongoDB, Azure Cosmos DB, Amazon DynamoDB, and relational databases.
-- Managed services on Azure and AWS and implemented automated testing with Jest, Jasmine, Supertest, and Playwright.
+- Comprehensive design and implementation of optimized IoT solutions.
+- Design, development, and integration of REST APIs with Express.js, Laravel/Lumen, and Spring Boot, including participation in microservices architectures and integration with PostgreSQL, MongoDB, Azure Cosmos DB, and Amazon DynamoDB.
+- Managed services on Microsoft Azure and AWS, with automated testing (Jest, Jasmine, Supertest, and Playwright) for end-to-end flows and deployment via CI/CD in GitHub Actions.
 
 #### Full Stack Developer · Freelance
 
 `February 2015 - January 2021`
 
-- Delivered full stack web applications using JavaScript, Java, PHP/Laravel, Vue.js, Nuxt.js, and WordPress.
-- Designed REST APIs and solved complex technical challenges across e-commerce, payments, transfers, and network management platforms.
+- Developed web applications and full stack solutions with JavaScript, Java, PHP/Laravel, Vue.js, Nuxt.js, and WordPress.
+- Analysis and resolution of complex technical problems, applying programming best practices, REST API design, and data modeling with PostgreSQL.
+- Implementation of e-commerce, payment, transfer, and Wi-Fi network management platforms.
 
 #### Computer Science Specialist · Empresa de Acopio
 
 `2006 - 2015`
 
-- Evaluated and implemented third-party software and managed IT resources, servers, services, and network infrastructure.
+- Evaluated and implemented third-party software and managed IT resources.
+- Administration of servers, services, and network infrastructure.
 - Developed internal systems with C#, ASP.NET MVC, SQL Server, Entity Framework, LINQ, and IIS.
 
-### Projects
+### Selected projects
 
-#### Cloud and IoT solutions
+#### IoT solutions and cloud architecture · Wisely
 
-Technical leadership, architecture, REST API development, cloud services, and data integrations for IoT solutions running on Azure and AWS.
+`2021 - Present` — Design, development, and operation of distributed services
 
-#### MarketPlace
+Implementation of backend services and REST APIs, data integration, and operation of IoT solutions in cloud environments.
 
-Progressive Web Application for sales, social interactions, and payments, built with Vue.js, Nuxt.js, Vuetify, Java, Spring Boot, Spring Security, JPA, and Spring MVC.
+**Technologies:** JavaScript, Node.js, Express.js, Laravel/Lumen, Spring Boot, Microsoft Azure, AWS, MongoDB, Azure Cosmos DB, Amazon DynamoDB, Jest, Jasmine, Supertest, and Playwright.
 
-#### RECARGATE and SECURITYCHANGE
+#### MarketPlace · Freelance
 
-Web platforms for electronic transfers and service payments across users, countries, and currencies, built with Laravel, PHP, Vue.js, Nuxt.js, MySQL, JavaScript, and Bootstrap.
+`June 2020 - Present` — PWA for sales, social networking, and payments
 
-### Education and certifications
+**Technologies:** Vue.js, Nuxt.js, Vuetify, Java, Spring Boot, Spring Security, JPA, and Spring MVC.
 
-**Computer Engineering** · Universidad de Matanzas Camilo Cienfuegos · 2006-2011
+#### RECARGATE and SECURITYCHANGE · Freelance
 
-- Microsoft Certified: Azure Fundamentals
-- Terraform
-- Applied Software Architecture
-- Model Context Protocol (MCP)
-- AI Agents and OpenAI API
-- AWS Cloud and AWS databases
-- Scrum Foundations Professional Certificate
+`2019 - 2020` — Electronic transfers and payment gateways
+
+Development of web applications to manage transfers and service payments across users, countries, and currencies.
+
+**Technologies:** Laravel, PHP, Vue.js, Nuxt.js, MySQL, JavaScript, jQuery, and Bootstrap.
+
+### Education
+
+**Computer Science Engineer, Computer Engineering** · Universidad de Matanzas Camilo Cienfuegos · 2006-2011
+
+Program focused on computer science, software engineering and architecture, software development, and networking.
+
+### Relevant certifications
+
+- Microsoft Certified: Azure Fundamentals · Microsoft, 2025
+- Terraform · Platzi, 2025
+- Applied Software Architecture · Platzi, 2025
+- Model Context Protocol (MCP) · Platzi, 2025
+- AI Agents · Platzi, 2025
+- OpenAI API · Platzi, 2025
+- Backend with Node.js and PostgreSQL · Platzi, 2023
+- REST API with Express.js · Platzi, 2023
+- AWS Cloud and AWS databases · Platzi, 2022
+- Docker · Platzi, 2021
+- Scrum Foundations Professional Certificate · CertiProf, 2020
+
+### Additional training
+
+Advanced administration and network services on GNU/Linux; web application penetration testing; Android application development; data migration; Git and GitHub; React Hooks; ECMAScript 6+; advanced Java SE, object orientation, and persistence.
+
+### Languages
+
+Spanish: native · English: basic professional proficiency
 
 ---
 
@@ -139,18 +167,18 @@ Mis fortalezas están en los fundamentos que dan criterio para construir con IA 
 
 Aplico inteligencia artificial a lo largo de todo el ciclo de desarrollo (AI-Driven Development), integrando agentes de código y herramientas de IA en mi trabajo diario. Lidero su adopción en el equipo, acelerando la entrega sin sacrificar calidad.
 
-### Competencias principales
+### Competencias técnicas
 
 | Área | Tecnologías y prácticas |
 | --- | --- |
-| **Backend y API REST** | JavaScript, Node.js, Express.js, PHP, Laravel/Lumen, Java, Spring Boot, diseño e integración de API REST |
-| **Frontend** | Vue.js, Nuxt.js, React, HTML, CSS, Bootstrap |
-| **Cloud y DevOps** | Microsoft Azure, AWS, Terraform, Docker, Git, GitHub, CI/CD con GitHub Actions, observabilidad y monitoreo (métricas, logs y trazas) con Azure Monitor/Application Insights y Grafana, IIS |
-| **Bases de datos** | PostgreSQL, MySQL, SQL, SQL Server, MongoDB, Azure Cosmos DB, Amazon DynamoDB |
-| **Testing** | Jest, Jasmine, Supertest, Playwright, pruebas de API, pruebas end-to-end, conocimiento de TDD y Spec-Driven Development (SDD) |
-| **Arquitectura** | Arquitectura de software, IoT, sistemas distribuidos, microservicios |
-| **Liderazgo y entrega** | Liderazgo técnico, Scrum, ClickUp, Trello, Avaza, GitHub Projects |
-| **AI-Driven Development** | Uso diario de agentes de código y asistentes de IA en todo el ciclo SDLC (diseño, implementación, testing, code review, documentación, automatización); consumo e integración de MCP servers con skills y subagentes propios; Agentic AI e ingeniería de prompts; OpenAI API en producción; liderazgo en la adopción de IA del equipo |
+| **Liderazgo y arquitectura** | Liderazgo técnico, arquitectura de software, planificación de proyectos, metodologías ágiles, Scrum, IoT y diseño de soluciones cloud |
+| **Gestión de proyectos** | ClickUp, Trello, Avaza y GitHub Projects |
+| **Backend y API REST** | Diseño, desarrollo e integración de API REST con JavaScript, Node.js, Express.js, PHP, Laravel/Lumen, Java y Spring Boot; Spring Security, Spring MVC, JPA, Hibernate, C#, .NET y ASP.NET MVC. Arquitecturas de microservicios |
+| **Frontend** | JavaScript, Vue.js, Nuxt.js, React.js, HTML, CSS, Bootstrap y WordPress |
+| **Cloud y DevOps** | Microsoft Azure, AWS, Terraform, Docker, Git, GitHub, CI/CD con GitHub Actions, observabilidad y monitoreo (métricas, logs y trazas) con Azure Monitor/Application Insights y Grafana |
+| **Bases de datos** | PostgreSQL, MySQL, SQL, SQL Server, MongoDB, Azure Cosmos DB y Amazon DynamoDB |
+| **Testing** | Jest, Jasmine, Supertest, Playwright, pruebas de API y pruebas end-to-end (E2E). Conocimiento de TDD (Test-Driven Development) y Spec-Driven Development (SDD) |
+| **AI-Driven Development** | Uso diario de agentes de código a lo largo de todo el ciclo SDLC: diseño, implementación, testing, code review, documentación y automatización. Consumo e integración de MCP servers, con skills y subagentes personalizados para flujos propios. Agentic AI e ingeniería de prompts aplicadas al desarrollo. Liderazgo en la adopción de IA del equipo y definición de buenas prácticas |
 
 ### Experiencia profesional
 
@@ -158,61 +186,89 @@ Aplico inteligencia artificial a lo largo de todo el ciclo de desarrollo (AI-Dri
 
 `Agosto 2023 - Actualidad`
 
-- Liderazgo de la estrategia técnica y la entrega de proyectos para soluciones IoT y cloud sobre Microsoft Azure y AWS.
-- Supervisión del ciclo completo de ingeniería, desde la arquitectura y el diseño hasta la implementación en producción.
-- Definición de soluciones cloud y de datos, coordinando equipos multidisciplinarios mediante prácticas ágiles y plataformas de gestión de proyectos.
-- Lideré la adopción de AI-Driven Development en el equipo: agentes de código en el SDLC, integración de MCP servers con skills y subagentes propios, con buenas prácticas definidas.
+- Responsable de la estrategia técnica y la gestión de proyectos, con foco en soluciones IoT y arquitecturas cloud sobre Microsoft Azure y AWS.
+- Supervisión del ciclo completo de desarrollo, desde el diseño de la solución hasta su implementación final.
+- Definición de soluciones con servicios cloud y bases de datos SQL y NoSQL, coordinando equipos y proyectos con ClickUp, Trello, Avaza y GitHub Projects.
+- Lideré la adopción de AI-Driven Development en el equipo: agentes de código en el SDLC e integración de herramientas de IA, con definición de buenas prácticas de uso.
 - Reduje significativamente los tiempos de desarrollo mediante IA, manteniendo los estándares de calidad y la cobertura de pruebas.
-- Lideré la migración de aplicaciones legacy a arquitecturas modernas en plazos mínimos apoyándome en IA, aportando mejoras notables de mantenibilidad y rendimiento.
+- Lideré la migración de aplicaciones legacy a arquitecturas modernas en plazos mínimos apoyándome en IA, aportando mejoras notables de mantenibilidad y rendimiento en poco tiempo.
 - Revisión de código y mentoría de desarrolladores junior, con flujos de CI/CD en GitHub Actions para asegurar la calidad de las entregas.
 
 #### Full-stack Developer · Wisely
 
 `Enero 2021 - Agosto 2023`
 
-- Diseño, desarrollo e integración de API REST con Express.js, Laravel/Lumen y Spring Boot.
-- Integración de servicios con MongoDB, Azure Cosmos DB, Amazon DynamoDB y bases de datos relacionales.
-- Administración de servicios en Azure y AWS e implementación de pruebas automatizadas con Jest, Jasmine, Supertest y Playwright.
+- Diseño e implementación integral de soluciones optimizadas para IoT.
+- Diseño, desarrollo e integración de API REST con Express.js, Laravel/Lumen y Spring Boot, incluyendo participación en arquitecturas de microservicios e integración con PostgreSQL, MongoDB, Azure Cosmos DB y Amazon DynamoDB.
+- Administración de servicios en Microsoft Azure y AWS, con pruebas automatizadas (Jest, Jasmine, Supertest y Playwright) para flujos end-to-end y despliegue mediante CI/CD en GitHub Actions.
 
 #### Full Stack Developer · Freelance
 
 `Febrero 2015 - Enero 2021`
 
-- Desarrollo de aplicaciones web full stack con JavaScript, Java, PHP/Laravel, Vue.js, Nuxt.js y WordPress.
-- Diseño de API REST y resolución de retos técnicos complejos en plataformas de comercio electrónico, pagos, transferencias y gestión de redes.
+- Desarrollo de aplicaciones web y soluciones full stack con JavaScript, Java, PHP/Laravel, Vue.js, Nuxt.js y WordPress.
+- Análisis y resolución de problemas técnicos complejos, aplicando buenas prácticas de programación, diseño de API REST y modelado de datos con PostgreSQL.
+- Implementación de plataformas de comercio electrónico, pagos, transferencias y administración de redes Wi-Fi.
 
 #### Computer Science Specialist · Empresa de Acopio
 
 `2006 - 2015`
 
-- Evaluación e implementación de software de terceros y administración de recursos de TI, servidores, servicios e infraestructura de red.
+- Evaluación e implementación de software de terceros y administración de recursos de TI.
+- Administración de servidores, servicios e infraestructura de red.
 - Desarrollo de sistemas internos con C#, ASP.NET MVC, SQL Server, Entity Framework, LINQ e IIS.
 
-### Proyectos
+### Proyectos seleccionados
 
-#### Soluciones cloud e IoT
+#### Soluciones IoT y arquitectura cloud · Wisely
 
-Liderazgo técnico, arquitectura, desarrollo de API REST, servicios cloud e integración de datos para soluciones IoT ejecutadas sobre Azure y AWS.
+`2021 - Actualidad` — Diseño, desarrollo y operación de servicios distribuidos
 
-#### MarketPlace
+Implementación de servicios backend y API REST, integración de datos y operación de soluciones IoT en entornos cloud.
 
-Aplicación web progresiva para ventas, interacción social y pagos, desarrollada con Vue.js, Nuxt.js, Vuetify, Java, Spring Boot, Spring Security, JPA y Spring MVC.
+**Tecnologías:** JavaScript, Node.js, Express.js, Laravel/Lumen, Spring Boot, Microsoft Azure, AWS, MongoDB, Azure Cosmos DB, Amazon DynamoDB, Jest, Jasmine, Supertest y Playwright.
 
-#### RECARGATE y SECURITYCHANGE
+#### MarketPlace · Freelance
 
-Plataformas web para transferencias electrónicas y pagos de servicios entre usuarios, países y monedas, desarrolladas con Laravel, PHP, Vue.js, Nuxt.js, MySQL, JavaScript y Bootstrap.
+`Junio 2020 - Actualidad` — Aplicación PWA para ventas, redes sociales y pagos
 
-### Educación y certificaciones
+**Tecnologías:** Vue.js, Nuxt.js, Vuetify, Java, Spring Boot, Spring Security, JPA y Spring MVC.
 
-**Ingeniería Informática** · Universidad de Matanzas Camilo Cienfuegos · 2006-2011
+#### RECARGATE y SECURITYCHANGE · Freelance
 
-- Microsoft Certified: Azure Fundamentals
-- Terraform
-- Arquitectura de Software Aplicada
-- Model Context Protocol (MCP)
-- Agentes de IA y OpenAI API
-- AWS Cloud y bases de datos en AWS
-- Scrum Foundations Professional Certificate
+`2019 - 2020` — Transferencias electrónicas y pasarelas de pago
+
+Desarrollo de aplicaciones web para gestionar transferencias y pagos de servicios entre usuarios, países y monedas.
+
+**Tecnologías:** Laravel, PHP, Vue.js, Nuxt.js, MySQL, JavaScript, jQuery y Bootstrap.
+
+### Educación
+
+**Ingeniero en Ciencias Informáticas, Ingeniería Informática** · Universidad de Matanzas Camilo Cienfuegos · 2006-2011
+
+Programa centrado en ciencias de la computación, ingeniería y arquitectura de software, desarrollo de software y redes.
+
+### Certificaciones relevantes
+
+- Microsoft Certified: Azure Fundamentals · Microsoft, 2025
+- Terraform · Platzi, 2025
+- Arquitectura de Software Aplicada · Platzi, 2025
+- Model Context Protocol (MCP) · Platzi, 2025
+- Agentes de IA · Platzi, 2025
+- OpenAI API · Platzi, 2025
+- Backend con Node.js y PostgreSQL · Platzi, 2023
+- API REST con Express.js · Platzi, 2023
+- AWS Cloud y bases de datos en AWS · Platzi, 2022
+- Docker · Platzi, 2021
+- Scrum Foundations Professional Certificate · CertiProf, 2020
+
+### Formación complementaria
+
+Administración avanzada y servicios de red en GNU/Linux; pruebas de penetración en aplicaciones web; desarrollo de aplicaciones Android; migración de datos; Git y GitHub; React Hooks; ECMAScript 6+; Java SE avanzado, orientación a objetos y persistencia.
+
+### Idiomas
+
+Español: nativo · Inglés: competencia profesional básica
 
 ---
 
